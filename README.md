@@ -1,2 +1,3 @@
-# SIP-and-SWP-excel
-This SQL project analyzes pizza sales using four datasets: Orders, Pizza Types, Pizzas, and Order Details. It covers basic metrics, order distribution, and revenue analysis. The project demonstrates SQL's power in extracting insights for data-driven decision-making in the food industry.
+#SIP & SWP Calculator (Excel VBA Project)
+This Excel-based tool helps you plan and visualize investments using the Systematic Investment Plan (SIP) and Systematic Withdrawal Plan (SWP) methods.
+It is designed for personal finance planning, with dynamic calculations, growth projections, and withdrawal simulations.
